@@ -1,4 +1,4 @@
-
+# Checks for up interfaces and prints out CRC erros
     
 import requests
 import json
